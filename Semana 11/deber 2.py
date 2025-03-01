@@ -26,7 +26,7 @@ for fila in matriz:
     print(fila)
 
 # Ordenar la segunda fila indice 1
-ordenar_fila(matriz, 2)
+ordenar_fila(matriz, 1)
 
 # Imprimir matriz después de ordenar
 print("\nMatriz después de ordenar la fila 1:")
