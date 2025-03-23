@@ -17,7 +17,7 @@ while cont < productos:   #El bucle while se reptira miestras cont sea menor a l
         cont = cont + 1  #Contamos uno en cada reptición
 
 
-descuento_f = int(input("Ingrese el descuento: "))  #Creamos una variable la cual nos va indicar el descuento
+descuento_f = int(input("Ingrese el descuento: "))  #Creamos  variable la cual nos va indicar el descuento
 
 
 
